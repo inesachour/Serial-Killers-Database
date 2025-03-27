@@ -1,0 +1,6 @@
+id;name;alias;birth_date;death_date;nationality;gender;race;victim_count;suspected_victim_count;victims_age;victims_type;victims_race;victims_gender;modus_operandi;active_countries;capture_date;sentencing;execution_date;cause_of_death;psychological_evaluation
+0;Robert Lee Yates Jr.;Spokane Serial Killer;1952-05-27;;American;Male;White;15;18+;16-60;Prostitutes;Mostly White;Female;Gunshot;United States;2000-05-18;408 years in prison;;;
+1;Gary Ridgway;The Green River Killer;1949-01-18;;American;Male;White;48;80+;?;Mostly Prostitutes;?;Female;?;United States;2001-11-30;480 years in prison;;;
+2;Dennis Rader;The BTK Killer;1945-03-09;;American;Male;;;;;;;;;United States;2005-02-25;;;;
+3;Paul Dennis Reid;;1957-11-12;;American;Male;;;;;;;;;United States;1997-06-25;;;;
+4;Coral Eugene Watts;;1953-11-07;2007-09-21;American;Male;;;;;;;;;United States;1982-05-23;;;Prostate cancer;
