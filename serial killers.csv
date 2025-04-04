@@ -1,11 +1,13 @@
-id;name;alias;birth_date;death_date;nationality;gender;race;active_years;victim_count;suspected_victim_count;modus_operandi;active_countries;capture_date;sentencing;execution_date;cause_of_death
-0;Robert Lee Yates Jr.;Spokane Serial Killer;27/05/1952;;American;Male;White;1975-1998;16;18;Shooting;United States;18/05/2000;408 years in prison, Death;;
-1;Gary Ridgway;The Green River Killer;18/01/1949;;American;Male;White;1982-2001;48;80;;United States;30/11/2001;480 years in prison;;
-2;Dennis Rader;The BTK Killer;09/03/1945;;American;Male;White;1974-1991;10;10;Bind, torture, kill;United States;25/02/2005;Life in prison without parole;;
-3;Paul Dennis Reid Jr.;The Fast Food Killer;12/11/1957;01/11/2013;American;Male;White;1997-1998;7;;Shooting;United States;25/06/1997;Death;;Heart failure
-4;Coral Eugene Watts;The Sunday Morning Slasher;07/11/1953;21/09/2007;American;Male;Black;1974-1982;13;20;;United States;23/05/1982;60 years in prison;;Cancer
-5;Ted Bundy;The Campus Killer, The Lady Killer;24/11/1946;24/01/1989;American;Male;White;1974-1978;30;36;;United States;16/08/1975;Death;24/01/1989;Execution (electric chair)
-6;Jeffrey Dahmer;The Milwaukee Cannibal;21/05/1960;28/11/1994;American;Male;White;1978-1991;17;;;United States;22/07/1991;Life in prison without parole;;Murdered in prison
-7;John Wayne Gracy;The Killer Clown;17/03/1942;10/05/1994;American;Male;White;1972-1978;33;;;United States;21/12/1978;Death;10/05/1994;Execution (lethal injection)
-8;Aileen Wuornos;;29/02/1956;09/10/2002;American;Female;White;1989-1990;7;;;United States;09/01/1991;Death;09/10/2002;Execution (lethal injection)
-9;Rachid Ramirez;The Night Stalker;29/02/1960;07/06/2013;American;Male;Hispanic;1984-1985;13;15;;United States;31/08/1985;Death;;Cancer
+id;name;alias;birth_date;death_date;nationality;gender;race;active_years;victims_count;suspected_victims_count;modus_operandi;active_countries;capture_date;sentencing;execution_date;cause_of_death
+0;Robert Lee Yates Jr.;The Spokane Serial Killer;1952-05-27;;American;Male;White;1975-1998;16;18+;Shooting;United States;2000-05-18;408 years in prison, Death;;
+1;Gary Ridgway;The Green River Killer;1949-01-18;;American;Male;White;1982-2001;48;80+;;United States;2001-11-30;480 years in prison;;
+2;Dennis Rader;The BTK Killer;1945-03-09;;American;Male;White;1974-1991;10;10+;Bind, torture, kill;United States;2005-02-25;Life in prison without parole;;
+3;Paul Dennis Reid Jr.;The Fast Food Killer;1957-11-12;2013-11-01;American;Male;White;1997-1998;7;;Shooting;United States;1997-06-25;Death;;Heart failure
+4;Coral Eugene Watts;The Sunday Morning Slasher;1953-11-07;2007-09-21;American;Male;Black;1974-1982;13;20+;;United States;1982-05-23;60 years in prison;;Cancer
+5;Ted Bundy;The Campus Killer, The Lady Killer;1946-11-24;1989-01-24;American;Male;White;1974-1978;30;36+;;United States;1975-08-16;Death;1989-01-24;Execution (electric chair)
+6;Jeffrey Dahmer;The Milwaukee Cannibal;1960-05-21;1994-11-28;American;Male;White;1978-1991;17;;;United States;1991-07-22;Life in prison without parole;;Murdered in prison
+7;John Wayne Gracy;The Killer Clown;1942-03-17;1994-05-10;American;Male;White;1972-1978;33;;;United States;1978-12-21;Death;1994-05-10;Execution (lethal injection)
+8;Aileen Wuornos;Damsel of Death;1956-02-29;2002-10-09;American;Female;White;1989-1990;7;;;United States;1991-01-09;Death;2002-10-09;Execution (lethal injection)
+9;Rachid Ramirez;The Night Stalker;1960-02-29;2013-06-07;American;Male;Hispanic;1984-1985;13;15;;United States;1985-08-31;Death;;Cancer
+10;;Jack The Ripper;;;British;Male;White;1905-03-02;5;;Slashing, mutilation;United Kingdom;;;;Unknown
+11;Pedro López;The Monster of the Andes;1948-10-08;;Colombian;Male;Latino;1956-1979;110;300+;Stabbing, strangulation;Colombia;1905-06-01;16 years in prison;;
